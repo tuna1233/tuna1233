@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tuna1233
-- 👀 I’m interested in futbol and all the people
-- 🌱 I’m currently learning study 
+- 👀 I’m interested in futbol and all the sports 
+- 🌱 I’m currently learning my life and my future
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me  discord
 
 <!---
 tuna1233/tuna1233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
